@@ -1,0 +1,3 @@
+Mira la funcion GetINScores que está en la linea 111 de la funcion FPCA de la libreria fdapace.
+
+La funcion que usan para integrar es esta: trapzRcpp {fdapace}
