@@ -71,8 +71,6 @@ MFPCA_VD_int=function(Data, M_grid=NULL, m_npcs=NULL){
 
     }
 
-    qfunc(xvec = aux_scores[1,],argvals = 1:gridM[1])
-
     ee_int=ee=matrix(nrow = N, ncol=npcs[[ind]])
 
     for (i in 1:N) {
